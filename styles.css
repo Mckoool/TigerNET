@@ -1,0 +1,57 @@
+.abcd{
+text-align:center;
+color:Black;
+padding:4px;
+font-family: 'Comic Sans MS', cursive;
+}
+.cls{
+background-image:url('Bwg.JPG');
+background-size:cover;
+background-repeat:no-repeat;
+background-postion:center;
+border-radius:50px;
+border: 2px solid transparent;
+padding:15px 30px;
+height:50vh;
+margin:0;
+}
+.footer-text{
+background-color:black;
+color:white;
+text-align:center;
+padding:20px;
+font-size:18;
+font-family: 'Lobster',cursive;
+}
+.fancy-button{
+display: inline-block;
+background:liner-gradient(90deg, #ff8c00, #ffa500, #ff4500);
+color:white;
+font-size:20px;
+font-family: 'Comic Sans MS', cursive;
+padding:15px 30px;
+text-align:center;
+text-decoration:none;
+border-radius:50px;
+box-shadow:0 5px 15px rgba(255, 69, 0, 0.6);
+transition: all 0.3s ease;
+border: 2px solid transparent;
+}
+
+.fancy-button:hover{
+transform: scale(1.1);
+box-shadow:0 8px25px rgba(255, 69, 0, 0.9);
+border-color:white;
+}
+
+.fancy-button:active{
+transform: scale(0,95);
+}
+
+body{
+background-color:darkorange;
+}
+
+.smtg{
+background-color:navyblue;
+}
