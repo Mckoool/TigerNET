@@ -7,6 +7,7 @@ font-family: 'Comic Sans MS', cursive;
 .cls{
 background-image:url('Bwg.JPG');
 background-size:contain;
+background-repeat:no-repeat;
 background-postion:center;
 border-radius:50px;
 border: 2px solid transparent;
